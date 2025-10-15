@@ -5,6 +5,9 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  pages: write
+
 jobs:
   build:
     name: Deploy docs

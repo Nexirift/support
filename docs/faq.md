@@ -6,6 +6,10 @@
 
 Nexirift is a small, hobby-run instance of Sharkey that's part of the Fediverse. We provide a free social networking service with a focus on community and privacy.
 
+### What is the "Fediverse" or "ActivityPub"?
+
+The Fediverse is a network of interconnected social media servers that can communicate with each other using open protocols like ActivityPub. This offers a decentralized alternative to centralized social media platforms like Facebook, Twitter, and Instagram.
+
 ### Is Nexirift free to use?
 
 Yes, Nexirift is completely free. We don't charge fees or accept donations. This is a personal hobby project.
@@ -35,6 +39,12 @@ This is opt-in on the Threads side by the users. After it is enabled, just searc
 ### What software does Nexirift use?
 
 Nexirift runs on Sharkey, which is open-source social networking software that's part of the ActivityPub federation protocol.
+
+### What is Sharkey?
+
+Sharkey is a fork of Misskey, a free and open-source social networking software that's part of the ActivityPub federation protocol.
+
+See [here](https://docs.joinsharkey.org/docs/comparison/misskey) for more information.
 
 ### What data do you collect?
 

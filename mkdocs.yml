@@ -1,0 +1,68 @@
+site_name: Nexirift Support Documentation
+site_description: Support documentation for the Nexirift federated social network instance.
+site_author: Nexirift Team
+site_url: https://support.nexirift.com
+
+theme:
+  name: material
+  logo: assets/favicon.png
+  favicon: assets/favicon.png
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: purple
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: purple
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+plugins:
+  - search
+  - social
+  - table-reader
+
+nav:
+  - Home: index.md
+  - Rules: rules.md
+  - Blocked Instances: blocked-instances.md
+  - Legal:
+      - Terms of Service: legal/terms-of-service.md
+      - Privacy Policy: legal/privacy-policy.md
+  - Getting Started: getting-started.md
+  - FAQ: faq.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:support@nexirift.com
+      name: Contact Support
+  generator: false
+
+copyright: Copyright &copy; 2025 Nexirift - Non-commercial hobby instance

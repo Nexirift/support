@@ -24,7 +24,7 @@ Nexirift is part of the Fediverse, which means you can interact with users from 
 - Your data may be stored on multiple servers
 
 !!! info "Federation Benefits"
-Federation allows you to connect with a much larger community while still enjoying the benefits of a small, well-moderated instance.
+    Federation allows you to connect with a much larger community while still enjoying the benefits of a small, well-moderated instance.
 
 ## First Steps
 

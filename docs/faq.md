@@ -8,7 +8,7 @@ Nexirift is a small, hobby-run instance of Sharkey that's part of the Fediverse.
 
 ### What is the "Fediverse" or "ActivityPub"?
 
-The Fediverse is a network of interconnected social media servers that can communicate with each other using open protocols like ActivityPub. This offers a decentralized alternative to centralized social media platforms like Facebook, Twitter, and Instagram.
+The Fediverse is a network of interconnected social media servers that can communicate with each other using open protocols like ActivityPub. This offers a decentralized alternative to centralized social media platforms like Facebook, Twitter, and Threads.
 
 ### Is Nexirift free to use?
 
@@ -16,9 +16,9 @@ Yes, Nexirift is completely free. We don't charge fees or accept donations. This
 
 ### Who runs Nexirift?
 
-Nexirift is operated as a personal hobby project by an individual in Australia. It's not a commercial service or organization.
+Nexirift is operated as a personal hobby project by an individual in Australia. It's not a commercial service or organization and we do not plan to change this.
 
-### Can I migrate my account?
+### Can I migrate my account to and from this instance?
 
 Yes, you can migrate to or from Nexirift using standard Sharkey migration tools. This allows you to move your followers and following list to another instance.
 
@@ -64,13 +64,9 @@ Yes, Sharkey provides data export functionality. You can download an archive of 
 
 ### I can't view profiles on a different instance. Why?
 
-Our instance has a blocklist of instances that misbehave or are not compliant with our rules. For transparency purposes, we provide a list of blocked instances [here]().
+Our instance has a blocklist of instances that misbehave or are not compliant with our rules. For transparency purposes, we provide a list of blocked instances [here](blocked-instances.md).
 
 ## Federation Questions
-
-### What is the Fediverse?
-
-The Fediverse is a network of interconnected social media servers that can communicate with each other using open protocols like ActivityPub.
 
 ### Can I follow users from other instances?
 
@@ -84,7 +80,7 @@ Some instances may be blocked or limited due to moderation policies. Content may
 
 ### How do I report problematic content?
 
-Use the built-in report feature (three dots menu on any post) or email [moderation@nexirift.com](mailto:moderation@nexirift.com).
+Use the built-in report feature (three dots menu on any post) or email [reports@nexirift.com](mailto:reports@nexirift.com).
 
 ### What are content warnings?
 
@@ -105,10 +101,9 @@ You can block or mute users through their profile page or by using the three dot
 Usernames cannot be changed on Sharkey. If you need a different username, you'll need to create a new account and migrate your followers.
 
 ### How do I verify my identity?
+Sharkey supports link verification through the rel="me" standard. Add links to your other profiles in your bio with the proper `rel="me"` attribute, and they'll display as verified.
 
-Sharkey uses link verification rather than centralized verification. Add links to your other profiles in your bio, and they'll show as verified if you add the proper rel="me" tag.
-
-Although, our instance does provide individual verification for eligible users, but applications are not currently available.
+Our instance also offers individual verification for eligible users, though applications are not currently open.
 
 ### What if I forget my password?
 
@@ -119,6 +114,6 @@ Use the password reset feature on the login page. You'll receive an email with i
 If you can't find the answer to your question here, feel free to contact us:
 
 - **General Support**: [support@nexirift.com](mailto:support@nexirift.com)
-- **Moderation Issues**: [moderation@nexirift.com](mailto:moderation@nexirift.com)
+- **Moderation Issues**: [reports@nexirift.com](mailto:reports@nexirift.com)
 - **Privacy Concerns**: [privacy@nexirift.com](mailto:privacy@nexirift.com)
 - **Appeals**: [appeals@nexirift.com](mailto:appeals@nexirift.com)

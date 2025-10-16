@@ -24,10 +24,7 @@ By using Nexirift, you confirm that you are at least 13 years old (or the minimu
 
 As a personal hobby project, Nexirift operates entirely free of charge and does not accept donations, subscriptions, or any form of payment. 
 
-!!! warning "Fraud Alert"
-    **Beware of impersonators.** Anyone claiming to represent Nexirift staff and requesting donations, payments, or financial contributions is fraudulent. We have no official fundraising activities and never solicit money from users.
-
-If you encounter such solicitations, please report them immediately.
+Anyone claiming to represent Nexirift staff and requesting donations, payments, or financial contributions is fraudulent. We have no official fundraising activities and never solicit money from users. If you encounter such solicitations, please report them immediately.
 
 This may change in the future, but we will let you know via the announcements feature if it does.
 
@@ -56,12 +53,11 @@ You retain ownership of all content you post. We do not claim ownership of your 
 
 ### 4.3 AI Training Prohibition
 
-!!! warning "AI Training Restrictions"
-    **Individuals and companies are strictly prohibited from using user content posted on Nexirift for training artificial intelligence models, machine learning systems, or similar technologies without explicit written consent from the content creator.** This includes but is not limited to text, images, videos, and any other user-generated content. Automated scraping or collection of user content for AI training purposes is forbidden and the content creators hold the right to take legal action against those who violate this rule.
+Individuals and companies are strictly prohibited from using user content posted on Nexirift for training artificial intelligence models, machine learning systems, or similar technologies without explicit written consent from the content creator. This includes but is not limited to text, images, videos, and any other user-generated content. Automated scraping or collection of user content for AI training purposes is forbidden and the content creators hold the right to take legal action against those who violate this rule.
 
 ### 4.4 Federation
 
-**Your public content will be automatically shared with other Fediverse servers** - this is how federation works. Private content follows your privacy settings, but may still be visible to servers hosting your intended recipients. **Once content federates to other instances, we cannot control how it's stored, modified, or deleted by those servers.** Consider all federated content as potentially permanent and publicly accessible.
+Your public content will be automatically shared with other Fediverse servers - this is how federation works. Private content follows your privacy settings, but may still be visible to servers hosting your intended recipients. Please refer to the [privacy policy](privacy-policy.md) for more information.
 
 ## 5. Privacy and Data
 
@@ -96,13 +92,12 @@ These Terms are governed by Australian law. All disputes will be resolved under 
 
 For official communications, content removal requests, or legal inquiries, contact:
 
-!!! contact "Contact Information"
-    - **DMCA**: [legal@nexirift.com](mailto:legal@nexirift.com)
-    - **General Support**: [support@nexirift.com](mailto:support@nexirift.com)
+- **DMCA**: [legal@nexirift.com](mailto:legal@nexirift.com)
+- **General Support**: [support@nexirift.com](mailto:support@nexirift.com)
 
 ## 10. Changes to Terms
 
-We may update these Terms at any time. Material changes will be posted on the Service with an updated "Last Updated" date. Continued use constitutes acceptance of revised Terms.
+We may update these Terms at any time. Material changes will be posted on the Service with an updated "Last Updated" date. Continued use of the service within 24 hours of the last session without deleting your account constitutes acceptance of revised Terms.
 
 ---
 

@@ -74,7 +74,6 @@ This is standard information that are collected by all platforms.
 
 ### Federation Implications
 
-!!! warning "Important: Federation Data Persistence"
 Once public (or shared private - by you) content is federated, it may be stored or redistributed by other Fediverse servers beyond our control. Deleting or modifying your content on our instance does not guarantee removal from other servers. Please consider this before sharing publicly or with specific users, as we cannot enforce deletion or privacy on remote instances.
 
 ## Your Rights
@@ -114,14 +113,13 @@ We process your personal information based on:
 
 For privacy-related questions, data requests, or concerns:
 
-!!! contact "Privacy Contact Information"
-    - **Privacy**: [privacy@nexirift.com](mailto:privacy@nexirift.com)
-    - **Data Protection Officer**: [dpo@nexirift.com](mailto:dpo@nexirift.com)
-    - **General Support**: [support@nexirift.com](mailto:support@nexirift.com)
+- **Privacy**: [privacy@nexirift.com](mailto:privacy@nexirift.com)
+- **Data Protection Officer**: [dpo@nexirift.com](mailto:dpo@nexirift.com)
+- **General Support**: [support@nexirift.com](mailto:support@nexirift.com)
 
 ## Changes to This Policy
 
-We may update this Privacy Policy periodically. Material changes will be posted on the Service with an updated "Last Updated" date. Continued use constitutes acceptance of the revised policy.
+We may update this Privacy Policy periodically. Material changes will be posted on the Service with an updated "Last Updated" date. Continued use of the service within 24 hours of the last session without deleting your account constitutes acceptance
 
 ---
 

@@ -1,13 +1,12 @@
 # Rules
 
-!!! info "Last Updated: 15 October 2025"
+!!! info "Last Updated: 16 October 2025"
 
 Welcome to Nexirift! These rules ensure a safe, respectful environment for all community members. By using this instance, you agree to follow these guidelines.
 
 ## Community Guidelines
 
-!!! tip "Reporting Guidelines"
-    Please refrain from reporting content that does not break these rules just because you don't like the person who posted it.
+Please refrain from reporting content that does not break these rules just because you don't like the person who posted it.
 
 ### 1. Treat Others with Respect
 
@@ -28,6 +27,8 @@ Welcome to Nexirift! These rules ensure a safe, respectful environment for all c
 
 ### 3. Accessibility
 
+These "rules" are optional, however, we recommend adhering to them to ensure a positive experience for all users.
+
 - Add alt text to images when possible
 - Use CamelCase for hashtags (e.g., #MyHashTag)
 - Avoid excessive emoji or special characters in display names
@@ -36,16 +37,15 @@ Welcome to Nexirift! These rules ensure a safe, respectful environment for all c
 
 ### Absolutely Prohibited
 
-!!! danger "Zero Tolerance Violations"
-    The following behaviors will result in immediate action:
-  
-      - **Harassment, bullying, or targeted abuse**
-      - **Hate speech** based on identity, religion, race, gender, sexuality, or disability
-      - **Doxxing** or sharing private personal information
-      - **Spam** or excessive self-promotion under other people's accounts
-      - **Impersonation** of others without clear parody/fan account indicators
-      - **Misinformation** that could cause harm (health, safety, elections)
-      - **Highly illegal content** such as child pornography
+The following behaviors will result in immediate action:
+
+- **Harassment, bullying, or targeted abuse**
+- **Hate speech** based on identity, religion, race, gender, sexuality, or disability
+- **Doxxing** or sharing private personal information
+- **Spam** or excessive self-promotion under other people's accounts
+- **Impersonation** of others without clear parody/fan account indicators
+- **Misinformation** that could cause harm (health, safety, elections)
+- **Highly illegal content** such as child pornography
 
 ### Sexual Content Restrictions
 
@@ -106,7 +106,7 @@ Depending on severity and context, violations may result in:
 Report problematic content or behavior by:
 
 - Using the built-in report feature
-- Emailing [appeals@nexirift.com](mailto:appeals@nexirift.com) with details
+- Emailing [reports@nexirift.com](mailto:reports@nexirift.com) with details
 - Including screenshots or links when helpful
 
 ## Special Considerations
@@ -138,13 +138,10 @@ Moderators and administrators reserve the right to:
 
 ## Contact and Questions
 
-!!! contact "Contact Information"
-  - **Moderation Issues**: [moderation@nexirift.com](mailto:moderation@nexirift.com)
-  - **General Questions**: [support@nexirift.com](mailto:support@nexirift.com)
-  - **Appeals**: [appeals@nexirift.com](mailto:appeals@nexirift.com)
+- **Moderation Issues**: [moderation@nexirift.com](mailto:moderation@nexirift.com)
+- **General Questions**: [support@nexirift.com](mailto:support@nexirift.com)
+- **Appeals**: [appeals@nexirift.com](mailto:appeals@nexirift.com)
 
 ---
 
 _These rules apply to all content and interactions on Nexirift. Questions about specific situations? Contact our moderation team._
-
-**Remember: This is a small, hobby-run instance. We rely on community cooperation to maintain a positive environment for everyone.**

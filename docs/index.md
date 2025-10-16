@@ -24,7 +24,7 @@ Nexirift is a hobby-run, federated social network instance that's part of the Fe
 Need assistance? Here are your options:
 
 - **General Questions**: [support@nexirift.com](mailto:support@nexirift.com)
-- **Moderation Issues**: [moderation@nexirift.com](mailto:moderation@nexirift.com)
+- **Moderation Issues**: [reports@nexirift.com](mailto:reports@nexirift.com)
 - **Privacy Concerns**: [privacy@nexirift.com](mailto:privacy@nexirift.com)
 - **Appeals**: [appeals@nexirift.com](mailto:appeals@nexirift.com)
 

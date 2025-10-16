@@ -1,6 +1,6 @@
 # Privacy Policy
 
-!!! info "Last Updated: 15 October 2025"
+!!! info "Last Updated: 16 October 2025"
 
 This Privacy Policy explains how Nexirift (the "Service") collects, uses, and protects your personal information when you use our federated social network instance.
 
@@ -96,11 +96,11 @@ Once public (or shared private - by you) content is federated, it may be stored 
 
 ### Federation
 
-Your public data is shared with other Fediverse instances according to ActivityPub protocol standards. We cannot control how other instances handle your data.
+Your public data is shared with other Fediverse instances according to ActivityPub protocol standards. We cannot control how other instances handle your public data.
 
-### No Analytics or Advertising
+### No Analytics
 
-We do not use third-party analytics, advertising networks, or tracking services. Errors may be tracked and stored on-site.
+We do not use third-party analytics, mainstream advertising networks, or tracking services. Errors may be tracked and stored on-site.
 
 ## Legal Basis (Australian Privacy Principles)
 

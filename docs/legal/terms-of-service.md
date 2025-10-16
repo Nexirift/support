@@ -54,10 +54,14 @@ You grant us a non-exclusive, worldwide license to use, store, and display your 
 
 You retain ownership of all content you post. We do not claim ownership of your original content.
 
-### 4.3 Federation
+### 4.3 AI Training Prohibition
 
-!!! warning "Federation Notice"
-    Your public content will be shared with other Fediverse servers automatically. This is essential for federation functionality. Private content follows your privacy settings but may still be visible to your intended recipients' servers.
+!!! warning "AI Training Restrictions"
+    **Individuals and companies are strictly prohibited from using user content posted on Nexirift for training artificial intelligence models, machine learning systems, or similar technologies without explicit written consent from the content creator.** This includes but is not limited to text, images, videos, and any other user-generated content. Automated scraping or collection of user content for AI training purposes is forbidden and the content creators hold the right to take legal action against those who violate this rule.
+
+### 4.4 Federation
+
+**Your public content will be automatically shared with other Fediverse servers** - this is how federation works. Private content follows your privacy settings, but may still be visible to servers hosting your intended recipients. **Once content federates to other instances, we cannot control how it's stored, modified, or deleted by those servers.** Consider all federated content as potentially permanent and publicly accessible.
 
 ## 5. Privacy and Data
 
@@ -103,3 +107,4 @@ We may update these Terms at any time. Material changes will be posted on the Se
 ---
 
 _By using Nexirift, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service._
+

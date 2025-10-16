@@ -22,7 +22,14 @@ By using Nexirift, you confirm that you are at least 13 years old (or the minimu
 
 ### 2.2 Non-Commercial Nature
 
-This is a hobby project that does not accept donations or charge fees. Monetization attempts or unauthorized financial transactions are prohibited, unless explicitly permitted by the Instance Operator.
+As a personal hobby project, Nexirift operates entirely free of charge and does not accept donations, subscriptions, or any form of payment. 
+
+!!! warning "Fraud Alert"
+    **Beware of impersonators.** Anyone claiming to represent Nexirift staff and requesting donations, payments, or financial contributions is fraudulent. We have no official fundraising activities and never solicit money from users.
+
+If you encounter such solicitations, please report them immediately.
+
+This may change in the future, but we will let you know via the announcements feature if it does.
 
 ### 2.3 Account Portability
 

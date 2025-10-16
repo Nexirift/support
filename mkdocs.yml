@@ -1,4 +1,4 @@
-site_name: Nexirift Support Documentation
+site_name: Nexirift Support
 site_description: Support documentation for the Nexirift federated social network instance.
 site_author: Nexirift Team
 site_url: https://support.nexirift.com
@@ -38,13 +38,14 @@ plugins:
 
 nav:
   - Home: index.md
+  - Getting Started: getting-started.md
+  - FAQ: faq.md
   - Rules: rules.md
-  - Blocked Instances: blocked-instances.md
   - Legal:
       - Terms of Service: legal/terms-of-service.md
       - Privacy Policy: legal/privacy-policy.md
-  - Getting Started: getting-started.md
-  - FAQ: faq.md
+  - Blocked Instances: blocked-instances.md
+  - Roles: roles.md
 
 markdown_extensions:
   - admonition

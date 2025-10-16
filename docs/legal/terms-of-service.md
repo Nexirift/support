@@ -1,6 +1,6 @@
 # Terms of Service
 
-!!! info "Last Updated: 15 October 2025"
+!!! info "Last Updated: 16 October 2025"
 
 Welcome to Nexirift (the "Service"), a federated social network operated as a personal project in Australia.
 

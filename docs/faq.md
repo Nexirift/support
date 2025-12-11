@@ -66,6 +66,12 @@ Yes, Sharkey provides data export functionality. You can download an archive of 
 
 Our instance has a blocklist of instances that misbehave or are not compliant with our rules. For transparency purposes, we provide a list of blocked instances [here](blocked-instances.md).
 
+### Do you have an app? How can I install it?
+
+Not really. But, you can find Misskey (preferred) or Mastodon clients on the app stores if you wish, see [here](https://misskey-hub.net/en/docs/for-users/resources/apps).
+
+However, we would prefer if you just installed the progressive web app since that will have all of the features, see [here](https://misskey-hub.net/en/docs/for-users/stepped-guides/how-to-use-pwa).
+
 ## Federation Questions
 
 ### Can I follow users from other instances?

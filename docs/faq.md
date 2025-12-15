@@ -38,11 +38,7 @@ This is opt-in on the Threads side by the users. After it is enabled, just searc
 
 ### What software does Nexirift use?
 
-Nexirift runs on Sharkey, which is open-source social networking software that's part of the ActivityPub federation protocol.
-
-### What is Sharkey?
-
-Sharkey is a fork of Misskey, a free and open-source social networking software that's part of the ActivityPub federation protocol.
+Nexirift runs on Pulsar, a fork of Sharkey which is a fork of Misskey. It is an open-source social networking software that's part of the ActivityPub federation protocol.
 
 See [here](https://docs.joinsharkey.org/docs/comparison/misskey) for more information.
 
@@ -107,6 +103,7 @@ You can block or mute users through their profile page or by using the three dot
 Usernames cannot be changed on Sharkey. If you need a different username, you'll need to create a new account and migrate your followers.
 
 ### How do I verify my identity?
+
 Sharkey supports link verification through the rel="me" standard. Add links to your other profiles in your bio with the proper `rel="me"` attribute, and they'll display as verified.
 
 Our instance also offers individual verification for eligible users, though applications are not currently open.
@@ -115,11 +112,21 @@ Our instance also offers individual verification for eligible users, though appl
 
 Use the password reset feature on the login page. You'll receive an email with instructions to reset your password.
 
+### Can moderators see my email?
+
+No. A feature was added into Pulsar that hides the emails from non-administrators prior to the announcement launch. There is currently only one administrator which is the owner of the instance.
+
+### Can I share my account with others?
+
+Yes you can. Although, please refrain from sharing the account login details. Under the Security settings of your account, you can choose to "Share access".
+
 ## Still Have Questions?
 
 If you can't find the answer to your question here, feel free to contact us:
 
-- **General Support**: [support@nexirift.com](mailto:support@nexirift.com)
-- **Moderation Issues**: [reports@nexirift.com](mailto:reports@nexirift.com)
-- **Privacy Concerns**: [privacy@nexirift.com](mailto:privacy@nexirift.com)
+- **Moderation Issues**: [moderation@nexirift.com](mailto:moderation@nexirift.com)
+- **General Questions**: [support@nexirift.com](mailto:support@nexirift.com)
+- **Privacy**: [privacy@nexirift.com](mailto:privacy@nexirift.com)
+- **Data Protection Officer**: [dpo@nexirift.com](mailto:dpo@nexirift.com)
 - **Appeals**: [appeals@nexirift.com](mailto:appeals@nexirift.com)
+- **DMCA**: [legal@nexirift.com](mailto:legal@nexirift.com)

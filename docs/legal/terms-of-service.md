@@ -1,6 +1,6 @@
 # Terms of Service
 
-!!! info "Last Updated: 16 October 2025"
+!!! info "Last Updated: 15 December 2025"
 
 Welcome to Nexirift (the "Service"), a federated social network operated as a personal project in Australia.
 
@@ -30,7 +30,7 @@ This may change in the future, but we will let you know via the announcements fe
 
 ### 2.3 Account Portability
 
-You may migrate or delete your account at any time. Upon deletion, we will remove your content from our servers, but cannot control copies on other federated instances.
+You may migrate or delete your account at any time. Upon deletion, we will remove your content from our servers, but we cannot control copies on other federated instances.
 
 ## 3. Acceptable Use
 

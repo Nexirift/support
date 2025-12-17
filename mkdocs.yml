@@ -30,6 +30,7 @@ theme:
     - search.highlight
     - search.share
     - content.code.copy
+    - content.footnote.tooltips
 
 plugins:
   - search
@@ -44,6 +45,9 @@ nav:
   - Legal:
       - Terms of Service: legal/terms-of-service.md
       - Privacy Policy: legal/privacy-policy.md
+  - Programs:
+      - Verified Artists Program: programs/verified-artists.md
+      - Growing Artists Program: programs/growing-artists.md
   - Blocked Instances: blocked-instances.md
   - Roles: roles.md
 
@@ -65,5 +69,8 @@ extra:
       link: mailto:support@nexirift.com
       name: Contact Support
   generator: false
+
+markdown_extensions:
+  - footnotes
 
 copyright: Copyright &copy; 2025 Nexirift - Non-commercial hobby instance

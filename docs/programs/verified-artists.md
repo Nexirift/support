@@ -4,7 +4,7 @@ The verified artists program is a way for users to identify official artists on 
 
 ### Requirements [^1]
 
-_Don't meet these requirements? [Apply for the growing artists program](/programs/growing-artists)._
+_Don't meet these requirements? [Apply for the growing artists program](growing-artists.md)._
 
 - Must have a certain amount of followers on an applicable platform [^2]
     - Nexirift: 100

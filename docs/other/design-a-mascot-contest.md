@@ -10,6 +10,16 @@ To celebrate the official launch of Nexirift, the staff team is excited to annou
 - All artwork must be entirely Safe For Work.
 - Both 2D and 3D artwork are accepted.
 
+## Rewards
+
+The winner will receive:
+
+- A "Verified Artist" badge, granted automatically—no application or requirements needed.
+    - Learn more about the [Verified Artist program](../programs/verified-artists.md).
+    - See details in the ["Other" roles section](../roles.md#other).
+- Featured recognition across Nexirift’s platform and social media.
+- The opportunity to have your artwork showcased as Nexirift’s official mascot.
+
 ## Submissions
 
 Submissions must be sent via direct messages (the beta Chat feature) to [@Contests](https://nexirift.com/@Contests) before `DATE`.

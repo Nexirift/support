@@ -12,7 +12,7 @@ To celebrate the official launch of Nexirift, the staff team is excited to annou
 
 ## Submissions
 
-Submissions must be sent to [@Contests](https://nexirift.com/@Contests) before `DATE`.
+Submissions must be sent via direct messages (the beta Chat feature) to [@Contests](https://nexirift.com/@Contests) before `DATE`.
 
 ## Terms
 

@@ -48,11 +48,15 @@ The following behaviors will result in immediate action:
 - **Highly illegal content** such as child pornography
 
 ### Sexual Content Restrictions
-
-- **No sexual content involving minors** (zero tolerance)
-- Adult content must use appropriate content warnings
-- Explicit material should be marked as sensitive
-- No unsolicited sexual content in public timelines
+- **Absolutely no sexual content involving minors** - zero tolerance, immediate ban.
+- All adult or explicit content **must** include a clear content warning (CW) and be marked as sensitive.
+  - This applies unless your account is already designated as 18+.
+- Do **not** post unsolicited sexual content to public timelines or in replies.
+- Accounts that share adult material **must** be clearly marked as 18+ in your Privacy settings.
+  - If your account is not properly marked, moderators may update your settings to 18+ on your behalf.
+    - If you believe this was done in error, please contact support, as this setting cannot be reverted by users.
+- 18+ content is opt-in: users can enable it in their timeline settings ("Show 18+ content").
+- Sharing non-consensual or exploitative sexual material is strictly prohibited.
 
 ### Violence and Extremism
 

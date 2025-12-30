@@ -4,7 +4,7 @@ To celebrate the official launch of Nexirift, the staff team is excited to annou
 
 ## Rules
 
-- Any species is welcome—humans, furries, aliens, or anything you can imagine! Have fun and be creative.
+- Any species is welcome: humans, furries, aliens, or anything you can imagine! Have fun and be creative.
 - All submissions must be original work. AI-generated images are not allowed and may result in disciplinary action.
 - Using art bases is permitted, provided you credit the original artist.
 - All artwork must be entirely Safe For Work.

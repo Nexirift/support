@@ -1,8 +1,8 @@
+# DESIGN A MASCOT Contest
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/Nexirift/media-kit/refs/heads/main/nexirift/ads/design_a_mascot.png" alt="DESIGN A MASCOT Contest Banner">
 </p>
-
-# DESIGN A MASCOT Contest
 
 To celebrate the official launch of Nexirift, the staff team is excited to announce a sitewide contest to design Nexirift's official mascot! The winning artwork will be featured across the platform as the face of Nexirift.
 

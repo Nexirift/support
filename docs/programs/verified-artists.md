@@ -25,6 +25,7 @@ _Don't meet these requirements? [Apply for the growing artists program](growing-
 - Verified artist badge on profile
 - Additional support from @Artists account
 - Enhanced credibility on the platform [^3]
+- Double the Drive storage (50 MB to 100 MB)
 - ... and more!
 
 [^3]: This does not mean that users in this program will have their visibility artifically boosted on the platform.

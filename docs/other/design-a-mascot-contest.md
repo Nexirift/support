@@ -6,6 +6,8 @@
 
 To celebrate the official launch of Nexirift, the staff team is excited to announce a sitewide contest to design Nexirift's official mascot! The winning artwork will be featured across the platform as the face of Nexirift.
 
+Please register your interest on this post [here](https://nexirift.com/notes/ah4b8io7jram0021) so we can determine if the contest should go ahead or not.
+
 ## Rules
 
 - Any species is welcome: humans, furries, aliens, or anything you can imagine! Have fun and be creative.
@@ -23,6 +25,8 @@ The winner will receive:
     - See details in the ["Other" roles section](../roles.md#other).
 - Featured recognition across Nexirift’s platform and social media.
 - The opportunity to have your artwork showcased as Nexirift’s official mascot.
+- Top 3 winners will receive $20 USD, and the 1st winner will receive an additional $50 USD.
+    - Read the terms for supported services to receive the payments.
 
 ## Submissions
 
@@ -50,3 +54,10 @@ If you wish to remain anonymous (for some reason), make sure you include that in
 - Winners must submit a vector version of their artwork (.svg) with a minimum dimension of approximatively 512 pixels (1024 pixels preferred).
     - We would like an image that big so we can have a high quality version that can be scaled down across our assets when needed.
 - If you used an art base, you must credit the original base artist beneath your own watermark (if present).
+- If you wish to receive the monetary reward, please ensure that you have either:
+    - [Buy Me a Coffee](https://buymeacoffee.com)
+    - [Ko-fi](https://ko-fi.com)
+    - [Liberapay](https://liberapay.com)
+    - [GitHub Sponsors](https://github.com/sponsors)
+    - Some other services may be supported, please suggest them to us.
+    - U.S only services are NOT supported, e.g. CashApp.

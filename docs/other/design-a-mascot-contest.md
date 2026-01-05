@@ -27,6 +27,7 @@ The winner will receive:
 - The opportunity to have your artwork showcased as Nexirift’s official mascot.
 - Top 3 winners will receive $20 USD, and the 1st winner will receive an additional $50 USD.
     - Read the terms for supported services to receive the payments.
+    - If there are not enough contestants, only the 1st winner will receive payments.
 
 ## Submissions
 

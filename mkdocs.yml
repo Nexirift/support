@@ -62,6 +62,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - attr_list
   - md_in_html
+  - footnotes
 
 extra:
   social:
@@ -69,8 +70,5 @@ extra:
       link: mailto:support@nexirift.com
       name: Contact Support
   generator: false
-
-markdown_extensions:
-  - footnotes
 
 copyright: Copyright &copy; 2025 Nexirift - Non-commercial hobby instance

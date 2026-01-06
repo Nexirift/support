@@ -12,7 +12,7 @@ The Fediverse is a network of interconnected social media servers that can commu
 
 ### Is Nexirift free to use?
 
-Yes, Nexirift is completely free. We don't charge fees or accept donations. This is a personal hobby project.
+Yes, Nexirift is completely free. We don't charge fees. This is a personal hobby project.
 
 ### Who runs Nexirift?
 
@@ -68,6 +68,10 @@ Not really. But, you can find Misskey (preferred) or Mastodon clients on the app
 
 However, we would prefer if you just installed the progressive web app since that will have all of the features, see [here](https://misskey-hub.net/en/docs/for-users/stepped-guides/how-to-use-pwa).
 
+### I have found an issue! How can I report it?
+
+Please report issues by messaging [@Support](https://nexirift.com/@Support), emailing [support@nexirift.com](mailto:support@nexirift.com), looking on the [@Nexirift](https://nexirift.com/@Nexirift) account for the latest feedback post, or creating an issue on [code.nexirift.com](https://code.nexirift.com/Nexirift/pulsar/issues/new) or on [GitHub](https://github.com/Nexirift/pulsar/issues/new).
+
 ## Federation Questions
 
 ### Can I follow users from other instances?
@@ -114,7 +118,7 @@ Use the password reset feature on the login page. You'll receive an email with i
 
 ### Can moderators see my email?
 
-No. A feature was added into Pulsar that hides the emails from non-administrators prior to the announcement launch. There is currently only one administrator which is the owner of the instance.
+No. A feature was added into Pulsar prior to the announcement launch that hides the emails from non-administrators. There is currently only one administrator which is the maintainer of the instance.
 
 ### Can I share my account with others?
 

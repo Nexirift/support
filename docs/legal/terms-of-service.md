@@ -1,6 +1,6 @@
 # Terms of Service
 
-!!! info "Last Updated: 15 December 2025"
+!!! info "Last Updated: 07 January 2026"
 
 Welcome to Nexirift (the "Service"), a federated social network operated as a personal project in Australia.
 
@@ -22,7 +22,7 @@ By using Nexirift, you confirm that you are at least 13 years old (or the minimu
 
 ### 2.2 Non-Commercial Nature
 
-As a personal hobby project, Nexirift operates entirely free of charge and does not accept donations, subscriptions, or any form of payment. 
+As a personal hobby project, Nexirift operates entirely free of charge, subscriptions, or any form of payment. 
 
 Anyone claiming to represent Nexirift staff and requesting donations, payments, or financial contributions is fraudulent. We have no official fundraising activities and never solicit money from users. If you encounter such solicitations, please report them immediately.
 

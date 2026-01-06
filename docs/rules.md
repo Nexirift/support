@@ -48,6 +48,7 @@ The following behaviors will result in immediate action:
 - **Highly illegal content** such as child pornography
 
 ### Sexual Content Restrictions
+
 - **Absolutely no sexual content involving minors** - zero tolerance, immediate ban.
 - All adult or explicit content **must** include a clear content warning (CW) and be marked as sensitive.
   - This applies unless your account is already designated as 18+.
@@ -103,7 +104,7 @@ Depending on severity and context, violations may result in:
 - Send from the same email address as your account
 - Include your username and reason for appeal
 - Decisions on serious violations (harassment, illegal content) are generally final
-- Appeals are reviewed within 7-14 business days
+- Appeals are reviewed within 1-7 business days
 
 ### Reporting
 
@@ -117,10 +118,11 @@ Report problematic content or behavior by:
 
 ### Bot Accounts
 
-- Clearly mark bot accounts in bio and display name
+- Clearly mark bot accounts using the bot label
 - Bots must follow all community rules
 - Automated posting should not spam timelines
 - Register with administrators for high-volume bots
+  - Here: [bots@nexirift.com](mailto:bots@nexirift.com)
 
 ### Instance Defederation
 

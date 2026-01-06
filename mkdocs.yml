@@ -50,6 +50,8 @@ nav:
       - Growing Artists Program: programs/growing-artists.md
   - Blocked Instances: blocked-instances.md
   - Roles: roles.md
+  - Developers:
+      - API Documentation: developers/api.md
 
 markdown_extensions:
   - admonition

@@ -15,9 +15,12 @@ Nexirift is a hobby-run, federated social network instance that's part of the Fe
 ### Key Features
 
 - **Federated**: Connect with users across the Fediverse
+  - Also you can interact (one-way) with Twitter users!
+  - And two ways with select Threads and Bluesky users!
 - **Community-Focused**: Small, personal instance with active moderation
-- **Privacy-Respecting**: No tracking, analytics, or advertising
+- **Privacy-Respecting**: No third-party tracking, analytics, or advertising
 - **Non-Commercial**: Free service run as a personal project
+- **Community Oriented**: Have an idea? Tell us and we might add it
 
 ## Getting Help
 

@@ -1,6 +1,6 @@
 # Privacy Policy
 
-!!! info "Last Updated: 15 December 2025"
+!!! info "Last Updated: 07 January 2026"
 
 This Privacy Policy explains how Nexirift (the "Service") collects, uses, and protects your personal information when you use our federated social network instance.
 
@@ -55,6 +55,17 @@ This is standard information that are collected by all platforms.
 - Detect and prevent spam, abuse, and security threats
 - Enforce our Terms of Service and Server Rules
 - Maintain logs for security and debugging purposes
+
+### Automated Moderation (NEXA)
+
+We employ an automated moderation system called **NEXA** ([learn more](https://code.nexirift.com/Nexirift/nexa)) to help maintain a safe and welcoming environment. NEXA runs exclusively on our servers and provides the following protections:
+
+- **Virus detection** with ClamAV
+- **Spam and scam detection** using machine learning classifiers
+- **Phishing detection**
+- **NSFW content detection** with the nsfwjs model
+
+All moderation processes are performed locally, no user data is shared with third parties for moderation purposes. Your data is **never** used to train moderation models, ensuring your privacy is protected.
 
 ## Data Protection
 

@@ -5,7 +5,7 @@ Welcome to Nexirift! This guide will help you get started with our federated soc
 ## Creating Your Account
 
 !!! warning "Username"
-    You cannot change your username once you've created your account due to technical limitations.
+You cannot change your username once you've created your account due to technical limitations.
 
 1. Visit the Nexirift instance
 2. Click "Sign up"
@@ -24,7 +24,7 @@ Nexirift is part of the Fediverse, which means you can interact with users from 
 - Your data may be stored on multiple servers
 
 !!! info "Federation Benefits"
-    Federation allows you to connect with a much larger community while still enjoying the benefits of a small, well-moderated instance.
+Federation allows you to connect with a much larger community while still enjoying the benefits of a small, well-moderated instance.
 
 ## First Steps
 
@@ -61,6 +61,23 @@ Content warnings (CW) help create a safer space for everyone. Use them for:
 - **Be Respectful**: Treat others as you'd like to be treated
 - **Respect Boundaries**: Pay attention to bios and pinned posts
 - **Use Content Warnings**: Help others curate their experience
+
+## Join Our Matrix Service
+
+Nexirift offers a private invite-only Matrix service for real-time chat with other community members.
+
+### Getting Started with Matrix
+
+1. Use a Matrix compatible client, e.g:
+   - Element / Element X on the App Store/Play Store
+   - Element Desktop (Web at https://app.element.io)
+2. Set the homeserver/identity provider to `nexirift.com`.
+3. Add in the details you want for your account.
+4. Enter your registration token when prompted.
+5. After logging in, look for public rooms!
+
+!!! note "Registration Token Required"
+    You'll need a registration token to create an account. Reply [here](https://nexirift.com/notes/ai1gbu7txg2300tl) to get an invitation.
 
 ## Need Help?
 

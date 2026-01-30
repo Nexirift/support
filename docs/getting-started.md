@@ -70,7 +70,7 @@ Nexirift offers a private invite-only Matrix service for real-time chat with oth
 
 1. Use a Matrix compatible client, e.g:
     - Element / Element X on the App Store/Play Store
-    - Element Desktop (Web at https://app.element.io)
+    - Element Desktop (Web at [https://app.element.io](https://app.element.io))
 2. Set the homeserver/identity provider to `nexirift.com`.
 3. Add in the details you want for your account.
 4. Enter your registration token when prompted.

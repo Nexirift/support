@@ -1,6 +1,6 @@
 # Terms of Service
 
-!!! info "Last Updated: 07 January 2026"
+!!! info "Last Updated: 25 April 2026"
 
 Welcome to Nexirift (the "Service"), a federated social network operated as a personal project in Australia.
 
@@ -97,7 +97,9 @@ For official communications, content removal requests, or legal inquiries, conta
 
 ## 10. Changes to Terms
 
-We may update these Terms at any time. Material changes will be posted on the Service with an updated "Last Updated" date. Continued use of the service within 24 hours of the last session without deleting your account constitutes acceptance of revised Terms.
+We may update these Terms at any time. Material changes will be posted on the Service with an updated "Last Updated" date and an effective date.
+
+If a change materially affects your rights or obligations, we will provide reasonable notice through the Service where practical. By continuing to use the Service on or after the effective date of revised Terms, you agree to the updated Terms.
 
 ---
 

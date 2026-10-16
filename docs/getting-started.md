@@ -62,24 +62,6 @@ Content warnings (CW) help create a safer space for everyone. Use them for:
 - **Respect Boundaries**: Pay attention to bios and pinned posts
 - **Use Content Warnings**: Help others curate their experience
 
-## Join Our Matrix Service
-
-Nexirift offers a private invite-only Matrix service for real-time chat with other community members.
-
-### Getting Started with Matrix
-
-1. Use a Matrix compatible client, e.g:
-    - Element / Element X on the App Store/Play Store
-        - You CANNOT sign up using Element X, but you can login after.
-    - Element Desktop (Web at [https://app.element.io](https://app.element.io))
-2. Set the homeserver/account provider to `nexirift.com`.
-3. Add in the details you want for your account.
-4. Enter your registration token when prompted.
-5. After logging in, look for public rooms!
-
-!!! note "Registration Token Required"
-    You'll need a registration token to create an account. Reply [here](https://nexirift.com/notes/ai1gbu7txg2300tl) to get an invitation.
-
 ## Need Help?
 
 If you need assistance, contact [support@nexirift.com](mailto:support@nexirift.com).

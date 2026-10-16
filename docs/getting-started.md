@@ -5,7 +5,7 @@ Welcome to Nexirift! This guide will help you get started with our federated soc
 ## Creating Your Account
 
 !!! warning "Username"
-You cannot change your username once you've created your account due to technical limitations.
+    You cannot change your username once you've created your account due to technical limitations.
 
 1. Visit the Nexirift instance
 2. Click "Sign up"
@@ -24,7 +24,7 @@ Nexirift is part of the Fediverse, which means you can interact with users from 
 - Your data may be stored on multiple servers
 
 !!! info "Federation Benefits"
-Federation allows you to connect with a much larger community while still enjoying the benefits of a small, well-moderated instance.
+    Federation allows you to connect with a much larger community while still enjoying the benefits of a small, well-moderated instance.
 
 ## First Steps
 

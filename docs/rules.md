@@ -1,6 +1,6 @@
 # Rules
 
-!!! info "Last Updated: 16 October 2025"
+!!! info "Last Updated: 16 October 2026"
 
 Welcome to Nexirift! These rules ensure a safe, respectful environment for all community members. By using this instance, you agree to follow these guidelines.
 
@@ -46,6 +46,7 @@ The following behaviors will result in immediate action:
 - **Impersonation** of others without clear parody/fan account indicators
 - **Misinformation** that could cause harm (health, safety, elections)
 - **Highly illegal content** such as child pornography
+- **AI-generated content** such as content written or art "created" by an AI
 
 ### Sexual Content Restrictions
 

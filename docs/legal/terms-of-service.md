@@ -1,6 +1,6 @@
 # Terms of Service
 
-!!! info "Last Updated: 25 April 2026"
+!!! info "Last Updated: 16 October 2026"
 
 Welcome to Nexirift (the "Service"), a federated social network operated as a personal project in Australia.
 
@@ -24,13 +24,11 @@ By using Nexirift, you confirm that you are at least 13 years old (or the minimu
 
 As a personal hobby project, Nexirift operates entirely free of charge, subscriptions, or any form of payment. 
 
-Anyone claiming to represent Nexirift staff and requesting donations, payments, or financial contributions is fraudulent. We have no official fundraising activities and never solicit money from users. If you encounter such solicitations, please report them immediately.
-
-This may change in the future, but we will let you know via the announcements feature if it does.
+Anyone claiming to represent Nexirift staff and requesting donations, payments, or financial contributions is fraudulent. Only the [@Nexirift](https://nexirift.com/@Nexirift) account is exempt.
 
 ### 2.3 Account Portability
 
-You may migrate or delete your account at any time. Upon deletion, we will remove your content from our servers, but we cannot control copies on other federated instances.
+You may migrate or delete your account at any time. Upon requested, we will remove your content from our servers, but we cannot control copies on other federated instances. This process may take up to 7 days upon acknowledgement.
 
 ## 3. Acceptable Use
 
@@ -38,14 +36,14 @@ Your use must comply with our [Rules](../rules.md). Violations may result in con
 
 You agree to:
 
-- Follow all Server Rules and AUP requirements
+- Follow all Server Rules and requirements
 - Refrain from prohibited conduct as defined in our policies
 
 ## 4. Content and Federation
 
 ### 4.1 Service License
 
-You grant us a non-exclusive, worldwide license to use, store, and display your content solely to operate the Service.
+You grant us a non-exclusive, worldwide license to use, store, and display your content solely to operate the Service as a social media platform.
 
 ### 4.2 Your Rights
 
@@ -57,7 +55,7 @@ Individuals and companies are strictly prohibited from using user content posted
 
 ### 4.4 Federation
 
-Your public content will be automatically shared with other Fediverse servers - this is how federation works. Private content follows your privacy settings, but may still be visible to servers hosting your intended recipients. Please refer to the [privacy policy](privacy-policy.md) for more information.
+Your public content will be automatically shared with other Fediverse servers - this is how federation works. Private content follows your privacy settings, but may still be visible to servers hosting your intended recipients. Please refer to the [Privacy Policy](privacy-policy.md) for more information.
 
 ## 5. Privacy and Data
 
@@ -94,8 +92,13 @@ For official communications, content removal requests, or legal inquiries, conta
 
 - **DMCA**: [legal@nexirift.com](mailto:legal@nexirift.com)
 - **General Support**: [support@nexirift.com](mailto:support@nexirift.com)
+- **Government Compliance**: [compliance@nexirift.com](mailto:compliance@nexirift.com)
 
-## 10. Changes to Terms
+## 10. Age Verification
+
+We **reject** all kinds of age verification or age assurance technology that restricts access to the platform as it goes against our principles. If you are a government entity seeking for us to implement such a technology via the Government Compliance email, we will refuse and promptly block the region from accessing the platform. Existing users of the platform will only have access to request their data and delete their account.
+
+## 11. Changes to Terms
 
 We may update these Terms at any time. Material changes will be posted on the Service with an updated "Last Updated" date and an effective date.
 

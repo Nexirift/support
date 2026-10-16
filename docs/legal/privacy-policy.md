@@ -1,6 +1,6 @@
 # Privacy Policy
 
-!!! info "Last Updated: 25 April 2026"
+!!! info "Last Updated: 16 October 2026"
 
 This Privacy Policy explains how Nexirift (the "Service") collects, uses, and protects your personal information when you use our federated social network instance.
 
@@ -54,20 +54,9 @@ This is standard information collected by all platforms.
 ### Security and Moderation
 
 - Detect and prevent spam, abuse, and security threats
-- Enforce our Terms of Service and Server Rules
+- Enforce our [Terms of Service](./terms-of-service.md) and [Server Rules](../rules.md)
 - Maintain logs for security and debugging purposes
 - Apply network and abuse protections, including IP-based controls where required (for example access lists, geo-based filtering, and automated block lists)
-
-### Automated Moderation (NEXA)
-
-We employ an automated moderation system called **NEXA** ([learn more](https://code.nexirift.com/Nexirift/nexa)) to help maintain a safe and welcoming environment. NEXA runs exclusively on our servers and provides the following protections:
-
-- **Virus detection** with ClamAV
-- **Spam and scam detection** using machine learning classifiers
-- **Phishing detection**
-- **NSFW content detection** with the nsfwjs model
-
-All moderation processes are performed locally, no user data is shared with third parties for moderation purposes. Your data is **never** used to train moderation models, ensuring your privacy is protected.
 
 ## Data Protection
 
@@ -125,10 +114,6 @@ If you are not satisfied with our response, you may contact the Office of the Au
 ### Federation
 
 Your public data is shared with other Fediverse instances according to ActivityPub protocol standards. We cannot control how other instances handle your public data.
-
-### Cloudflare Insights
-
-Other than the usage of Cloudflare Insights for speed and security metrics, we do not use any third-party analytics, mainstream advertising networks, or tracking services. Errors may be tracked and stored on-site.
 
 ### Reverse Proxy and Infrastructure Components
 
